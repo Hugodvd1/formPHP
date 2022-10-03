@@ -29,8 +29,9 @@
 
             <label for="topic">Choose a topic:</label>
 
-            <select name="topic" id="topic">
-                <option value="life" selected>Meaning of life</option>
+            <select name="topic" id="topic" required>
+                <option value="" disabled selected>Select the topic</option>
+                <option value="life">Meaning of life</option>
                 <option value="universe">Meaning of universe</option>
                 <option value="eveything">Meaning of everything</option>
             </select>
