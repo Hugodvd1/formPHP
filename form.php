@@ -31,7 +31,7 @@
 
             <select name="topic" id="topic">
                 <option value="life" selected>Meaning of life</option>
-                <option value="universe" selected>Meaning of universe</option>
+                <option value="universe">Meaning of universe</option>
                 <option value="eveything">Meaning of everything</option>
             </select>
 
